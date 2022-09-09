@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">medditation</string>
+    <string name="hello">Привет</string>
+    <string name="hello1">Наслаждайся отборочными.</string>
+    <string name="hello2">Будь внимателен.</string>
+    <string name="hello3">Делай хорошо.</string>
+    <string name="login">Войти в аккаунт</string>
+</resources>
