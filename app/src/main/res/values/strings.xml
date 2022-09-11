@@ -5,4 +5,8 @@
     <string name="hello2">Будь внимателен.</string>
     <string name="hello3">Делай хорошо.</string>
     <string name="login">Войти в аккаунт</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
